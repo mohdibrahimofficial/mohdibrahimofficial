@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mohammed%20Ibrahim&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&stroke=C77DFF&strokeWidth=1" alt="Header"/>
+  <img width="100%" src="assets/terminal-header.svg" alt="Mohammed Ibrahim — Full Stack Developer | AI Engineer"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/mohdibrahimofficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+practical+software+solutions+%F0%9F%92%BB;Experimenting+with+local+LLMs+%F0%9F%A7%A0;Making+voice+agents+that+listen+%F0%9F%8E%99%EF%B8%8F;From+idea+%E2%86%92+working+product+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+building+practical+software+solutions...;%24+experimenting+with+local+LLMs...;%24+making+voice+agents+that+listen...;%24+idea+--%3E+working+product+%E2%9C%94" alt="Typing SVG"/>
   </a>
 </p>
 

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="Mohammed Ibrahim — Full Stack Developer | AI Engineer">
+  <title>Mohammed Ibrahim — Full Stack Developer | AI Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e14"/>
+      <stop offset="1" stop-color="#0f0c29"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" opacity="0.025"/>
+    </pattern>
+
+    <!-- typing reveal masks: one per line, staggered -->
+    <clipPath id="l1"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="860" dur="0.9s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="860" dur="1.4s" begin="1.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="860" dur="0.9s" begin="2.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="860" dur="1.2s" begin="3.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="860" dur="1.2s" begin="5.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <style>
+    .mono   { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+    .prompt { fill: #00F5FF; font-size: 17px; }
+    .path   { fill: #C77DFF; font-size: 17px; }
+    .cmd    { fill: #e6edf3; font-size: 17px; }
+    .name   { fill: #39FF14; font-size: 40px; font-weight: 700; }
+    .role   { fill: #39FF14; font-size: 20px; }
+    .dim    { fill: #8b949e; font-size: 13px; }
+    .cursor { fill: #39FF14; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- window -->
+  <rect x="10" y="10" width="840" height="280" rx="12" fill="url(#bg)" stroke="#302b63" stroke-width="1.5"/>
+  <rect x="10" y="10" width="840" height="280" rx="12" fill="url(#scan)"/>
+  <!-- title bar -->
+  <path d="M22 10 H838 A12 12 0 0 1 850 22 V44 H10 V22 A12 12 0 0 1 22 10 Z" fill="#161b22"/>
+  <line x1="10" y1="44" x2="850" y2="44" stroke="#302b63"/>
+  <circle cx="34" cy="27" r="6.5" fill="#ff5f56"/>
+  <circle cx="56" cy="27" r="6.5" fill="#ffbd2e"/>
+  <circle cx="78" cy="27" r="6.5" fill="#27c93f"/>
+  <text x="430" y="32" text-anchor="middle" class="mono dim">mohammed@dev: ~/profile — zsh</text>
+
+  <!-- line 1: $ whoami -->
+  <g clip-path="url(#l1)">
+    <text x="34" y="84" class="mono"><tspan class="prompt">➜</tspan><tspan class="path" dx="10">~</tspan><tspan class="cmd" dx="12">whoami</tspan></text>
+  </g>
+  <!-- line 2: name -->
+  <g clip-path="url(#l2)" filter="url(#glow)">
+    <text x="34" y="132" class="mono name">Mohammed Ibrahim</text>
+  </g>
+  <!-- line 3: $ cat role.txt -->
+  <g clip-path="url(#l3)">
+    <text x="34" y="176" class="mono"><tspan class="prompt">➜</tspan><tspan class="path" dx="10">~</tspan><tspan class="cmd" dx="12">cat role.txt</tspan></text>
+  </g>
+  <!-- line 4: role -->
+  <g clip-path="url(#l4)" filter="url(#glow)">
+    <text x="34" y="208" class="mono role">Full Stack Developer | AI Engineer</text>
+  </g>
+  <!-- line 5: final command + cursor -->
+  <g clip-path="url(#l5)">
+    <text x="34" y="252" class="mono"><tspan class="prompt">➜</tspan><tspan class="path" dx="10">~</tspan><tspan class="cmd" dx="12">./build --useful-things</tspan><tspan class="cursor" dx="6" font-size="17">█</tspan></text>
+  </g>
+</svg>
