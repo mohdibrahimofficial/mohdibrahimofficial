@@ -1,138 +1,172 @@
-::: {align="center"}
-# Hi, I'm Mohammed Ibrahim 👋
-
-### Full Stack Developer \| AI Engineer
-
-Building practical software solutions, intelligent applications, and
-AI-powered experiences.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ibrahim-xlorit/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohdibrahimofficial)
-:::
-
-------------------------------------------------------------------------
-
-## 👨‍💻 About Me
-
-I'm a software developer and entrepreneur with **6+ years of experience
-in IT**, focused on building useful, reliable, and business-oriented
-digital products.
-
-My work spans custom software development, web applications, API
-integrations, and ongoing application maintenance. More recently, I've
-been expanding my engineering practice into **AI and LLM-powered
-applications**, with hands-on experimentation in local language models,
-semantic search, and real-time voice interfaces.
-
-I enjoy taking an idea from problem definition to a working
-solution---and thinking about how technology can make everyday business
-processes simpler.
-
--   💻 Experienced in software development and application maintenance.
--   🧠 Exploring practical applications of LLMs, retrieval, and AI
-    agents.
--   🎙️ Building and experimenting with local voice-agent workflows.
--   🚀 Interested in custom software that solves real operational
-    problems.
--   🤝 Open to meaningful collaborations, software projects, and
-    opportunities.
-
-## 🛠️ Technical Skills
-
-### Software Engineering
-
--   Application and web development
--   Backend development and API integration
--   REST API design and consumption
--   Database-backed application workflows
--   Debugging, maintenance, and iterative delivery
-
-### AI & LLM Engineering
-
--   Local LLM experimentation with **Ollama**
--   Speech-to-text workflows with **Faster-Whisper**
--   Text-to-speech integration with **pyttsx3**
--   Voice activity detection (VAD) and conversational audio workflows
--   Embeddings, semantic search, and retrieval-augmented generation
-    (RAG) concepts
--   Exploring AI agents and tool-calling patterns
-
-### Languages & Tools
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>`{=html}
-`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>`{=html}
-`<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>`{=html}
-`<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>`{=html}
-`<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="AWS S3"/>`{=html}
-```{=html}
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Ibrahim&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" alt="Header"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/mohdibrahimofficial">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+practical+software+solutions+%F0%9F%92%BB;Experimenting+with+local+LLMs+%F0%9F%A7%A0;Making+voice+agents+that+listen+%F0%9F%8E%99%EF%B8%8F;From+idea+%E2%86%92+working+product+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mohdibrahimofficial&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+---
+
+## 👨‍💻 `whoami`
+
+```python
+class MohammedIbrahim:
+    def __init__(self):
+        self.role        = ["Full Stack Developer", "AI Engineer", "Entrepreneur"]
+        self.experience  = "6+ years in IT"
+        self.builds      = ["Custom software", "Web apps", "API integrations"]
+        self.exploring   = ["LLMs", "RAG", "AI agents", "Voice interfaces"]
+        self.philosophy  = "Take an idea from problem definition to a working solution."
+
+    def currently(self):
+        return "Making everyday business processes simpler with technology 🚀"
+
+    def open_to(self):
+        return ["Meaningful collaborations", "Software projects", "Opportunities"]
 ```
-> **A note on my stack:** The tools above reflect technologies used in
-> my development work and hands-on projects. My AI/LLM work is an
-> actively developing area; I distinguish experimentation and learning
-> from production experience.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,git,github,aws,vscode&perline=7" alt="Tech stack"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Faster--Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Faster-Whisper"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ Software Engineering
+- Application & web development
+- Backend development & API integration
+- REST API design and consumption
+- Database-backed application workflows
+- Debugging, maintenance & iterative delivery
+
+</td>
+<td valign="top" width="50%">
+
+### 🧠 AI & LLM Engineering
+- Local LLMs with **Ollama**
+- Speech-to-text with **Faster-Whisper**
+- Text-to-speech with **pyttsx3**
+- Voice activity detection (VAD)
+- Embeddings, semantic search & RAG
+- AI agents & tool-calling patterns
+
+</td>
+</tr>
+</table>
+
+> 💡 **A note on my stack:** These tools reflect my development work and hands-on projects. AI/LLM is an actively developing area for me — I keep a clear line between experimentation and production experience.
+
+---
 
 ## 🚧 Selected Work & Experiments
 
-### 🎙️ Local AI Voice Agent
+<details open>
+<summary><b>🎙️ Local AI Voice Agent</b> — <i>conversational assistant running fully on a local LLM</i></summary>
+<br/>
 
-An ongoing project to explore a conversational voice assistant running
-with a local LLM.
+```
+🎤 Mic ──► VAD ──► Faster-Whisper ──► Llama 3.2 3B (Ollama) ──► sentence stream ──► pyttsx3 ──► 🔊
+              ▲                                                                          │
+              └──────────────────── barge-in: user interrupts ◄──────────────────────────┘
+```
 
-**Technologies and concepts:** Python, Ollama, Llama 3.2 3B,
-Faster-Whisper, pyttsx3, voice activity detection, streaming responses,
-and interruption handling.
+**Stack:** Python · Ollama · Llama 3.2 3B · Faster-Whisper · pyttsx3
 
-**Focus areas:** - Speech recognition and response generation. -
-Streaming model output and sentence-based speech playback. - Detecting
-silence and user speech. - Exploring barge-in behavior so a user can
-interrupt the assistant.
+**Focus areas:**
+- Speech recognition and response generation
+- Streaming model output with sentence-based speech playback
+- Detecting silence vs. user speech
+- Barge-in support so the user can interrupt the assistant
 
-### 🛡️ Cybersecurity Awareness Game
+</details>
 
-An interactive awareness experience designed to teach security concepts
-through short, engaging challenges.
+<details>
+<summary><b>🛡️ Cybersecurity Awareness Game</b> — <i>learn security by playing</i></summary>
+<br/>
 
-**Concepts:** Password security, breach awareness, phishing
-identification, and interactive browser-based learning.
+An interactive, browser-based experience that teaches security concepts through short, engaging challenges.
 
-### 🔎 Semantic Search & RAG Learning
+**Concepts:** Password security · Breach awareness · Phishing identification · Interactive learning
 
-Hands-on exploration of how embeddings and vector representations can
-help applications retrieve relevant information based on meaning rather
-than exact keyword matches.
+</details>
 
-**Focus areas:** Embeddings, similarity search, retrieval workflows, and
-how RAG can ground LLM responses in relevant context.
+<details>
+<summary><b>🔎 Semantic Search & RAG Learning</b> — <i>retrieval by meaning, not keywords</i></summary>
+<br/>
 
-> Project descriptions are summaries of work and experiments. Add
-> repository links below as each project is published.
+Hands-on exploration of how embeddings and vector representations help applications retrieve relevant information based on meaning rather than exact keyword matches.
+
+**Focus areas:** Embeddings · Similarity search · Retrieval workflows · Grounding LLM responses with RAG
+
+</details>
+
+<sub>📌 Project descriptions are summaries of work and experiments. Repository links will be added as each project is published.</sub>
+
+---
 
 ## 🌱 Currently Exploring
 
--   Building reliable LLM-powered applications.
--   RAG pipelines and semantic retrieval.
--   AI agents, tool calling, and workflow orchestration.
--   Local model performance and deployment trade-offs.
--   Voice interfaces with natural turn-taking and interruption support.
+```diff
++ Building reliable LLM-powered applications
++ RAG pipelines and semantic retrieval
++ AI agents, tool calling & workflow orchestration
++ Local model performance and deployment trade-offs
++ Voice interfaces with natural turn-taking & interruption
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdibrahimofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdibrahimofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohdibrahimofficial&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdibrahimofficial&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, founders, teams, and
-businesses working on useful software and AI-powered products.
+I'm keen to connect with developers, founders, teams, and businesses building useful software and AI-powered products.
 
--   **LinkedIn:** [Mohammed
-    Ibrahim](https://www.linkedin.com/in/mohammed-ibrahim-xlorit/)
--   **GitHub:**
-    [@mohdibrahimofficial](https://github.com/mohdibrahimofficial)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-@mohdibrahimofficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-------------------------------------------------------------------------
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <i>Build useful things. Keep learning. Improve every iteration.</i>
+</p>
 
-::: {align="center"}
-*Build useful things. Keep learning. Improve every iteration.*
-:::
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer"/>
+</p>
