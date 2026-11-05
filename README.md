@@ -1,18 +1,18 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Ibrahim&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mohammed%20Ibrahim&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&stroke=C77DFF&strokeWidth=1" alt="Header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/mohdibrahimofficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+practical+software+solutions+%F0%9F%92%BB;Experimenting+with+local+LLMs+%F0%9F%A7%A0;Making+voice+agents+that+listen+%F0%9F%8E%99%EF%B8%8F;From+idea+%E2%86%92+working+product+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+practical+software+solutions+%F0%9F%92%BB;Experimenting+with+local+LLMs+%F0%9F%A7%A0;Making+voice+agents+that+listen+%F0%9F%8E%99%EF%B8%8F;From+idea+%E2%86%92+working+product+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mohdibrahimofficial&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0f0c29" alt="LinkedIn"/></a>
+  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-Follow-C77DFF?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=0f0c29" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mohdibrahimofficial&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -42,10 +42,10 @@ class MohammedIbrahim:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,mysql,git,github,aws,vscode&perline=7" alt="Tech stack"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Faster--Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Faster-Whisper"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Ollama-0f0c29?style=for-the-badge&logo=ollama&logoColor=00F5FF" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Faster--Whisper-302b63?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="Faster-Whisper"/>
+  <img src="https://img.shields.io/badge/AWS_S3-0f0c29?style=for-the-badge&logo=amazons3&logoColor=C77DFF" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/REST_APIs-302b63?style=for-the-badge&logo=fastapi&logoColor=C77DFF" alt="REST APIs"/>
 </p>
 
 <table>
@@ -94,16 +94,16 @@ class MohammedIbrahim:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdibrahimofficial&theme=tokyonight" alt="Contribution graph"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdibrahimofficial&theme=radical" alt="Contribution graph"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohdibrahimofficial&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohdibrahimofficial&theme=tokyonight" alt="Most committed languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohdibrahimofficial&theme=radical" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohdibrahimofficial&theme=radical" alt="Most committed languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdibrahimofficial&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=mohdibrahimofficial&background=0f0c29&ring=00F5FF&fire=C77DFF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=8B8BAE&stroke=302b63&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
@@ -113,8 +113,8 @@ class MohammedIbrahim:
 I'm keen to connect with developers, founders, teams, and businesses building useful software and AI-powered products.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-@mohdibrahimofficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-ibrahim-xlorit/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Ibrahim-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0f0c29" alt="LinkedIn"/></a>
+  <a href="https://github.com/mohdibrahimofficial"><img src="https://img.shields.io/badge/GitHub-@mohdibrahimofficial-C77DFF?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=0f0c29" alt="GitHub"/></a>
 </p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
@@ -123,5 +123,5 @@ I'm keen to connect with developers, founders, teams, and businesses building us
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" alt="Footer"/>
 </p>
