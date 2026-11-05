@@ -78,51 +78,6 @@ class MohammedIbrahim:
 
 ---
 
-## 🚧 Selected Work & Experiments
-
-<details open>
-<summary><b>🎙️ Local AI Voice Agent</b> — <i>conversational assistant running fully on a local LLM</i></summary>
-<br/>
-
-```
-🎤 Mic ──► VAD ──► Faster-Whisper ──► Llama 3.2 3B (Ollama) ──► sentence stream ──► pyttsx3 ──► 🔊
-              ▲                                                                          │
-              └──────────────────── barge-in: user interrupts ◄──────────────────────────┘
-```
-
-**Stack:** Python · Ollama · Llama 3.2 3B · Faster-Whisper · pyttsx3
-
-**Focus areas:**
-- Speech recognition and response generation
-- Streaming model output with sentence-based speech playback
-- Detecting silence vs. user speech
-- Barge-in support so the user can interrupt the assistant
-
-</details>
-
-<details>
-<summary><b>🛡️ Cybersecurity Awareness Game</b> — <i>learn security by playing</i></summary>
-<br/>
-
-An interactive, browser-based experience that teaches security concepts through short, engaging challenges.
-
-**Concepts:** Password security · Breach awareness · Phishing identification · Interactive learning
-
-</details>
-
-<details>
-<summary><b>🔎 Semantic Search & RAG Learning</b> — <i>retrieval by meaning, not keywords</i></summary>
-<br/>
-
-Hands-on exploration of how embeddings and vector representations help applications retrieve relevant information based on meaning rather than exact keyword matches.
-
-**Focus areas:** Embeddings · Similarity search · Retrieval workflows · Grounding LLM responses with RAG
-
-</details>
-
-<sub>📌 Project descriptions are summaries of work and experiments. Repository links will be added as each project is published.</sub>
-
----
 
 ## 🌱 Currently Exploring
 
@@ -139,16 +94,16 @@ Hands-on exploration of how embeddings and vector representations help applicati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdibrahimofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdibrahimofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdibrahimofficial&theme=tokyonight" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohdibrahimofficial&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohdibrahimofficial&theme=tokyonight" alt="Most committed languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohdibrahimofficial&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdibrahimofficial&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
 ---
